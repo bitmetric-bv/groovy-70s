@@ -1,0 +1,257 @@
+{
+  "object": {
+    "title": {
+      "main": {
+        "color": "@TitleColor",
+        "fontSize": "@TitleSize"
+      },
+      "subTitle": {
+        "color": "@SubtitleColor",
+        "fontSize": "@SubtitleSize"
+      },
+      "footer": {
+        "color": "@FooterColor",
+        "fontSize": "@FooterSize",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "label": {
+      "name": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      },
+      "value": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      }
+    },
+    "axis": {
+      "title": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      },
+      "label": {
+        "name": {
+          "color": "@TextColor",
+          "fontSize": "@TextSize"
+        }
+      },
+      "line": {
+        "major": {
+          "color": "#d06b40"
+        },
+        "minor": {
+          "color": "#d06b40"
+        }
+      }
+    },
+    "grid": {
+      "line": {
+        "highContrast": {
+          "color": "#d06b40"
+        },
+        "major": {
+          "color": "#d06b40"
+        },
+        "minor": {
+          "color": "#d06b40"
+        }
+      }
+    },
+    "referenceLine": {
+      "label": {
+        "name": {
+          "color": "@TextColor",
+          "fontSize": "@TextSize"
+        }
+      },
+      "outOfBounds": {
+        "color": "@TextColor",
+        "backgroundColor": "#ffffff",
+        "fontSize": "@TextSize"
+      }
+    },
+    "legend": {
+      "title": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      },
+      "label": {
+        "color": "@TextColor",
+        "fontSize": "@TextSize"
+      }
+    }
+  },
+  "dataColors": {
+    "primaryColor": "#f58e18",
+    "othersColor": "#a2c157",
+    "errorColor": "#d74129",
+    "nullColor": "#CCCCCC"
+  },
+  "palettes": {
+    "data": [
+      {
+        "scale": [
+          "#ecd133",
+          "#eea336",
+          "#e97b24",
+          "#b1542b",
+          "#83422c",
+          "#a2c157",
+          "#ead754",
+          "#eacb06",
+          "#f3b604",
+          "#f58e18",
+          "#15325a",
+          "#277291",
+          "#328c97",
+          "#8aafa7",
+          "#f2dbb2",
+          "#f0a971",
+          "#ea7240",
+          "#d74129"
+        ],
+        "name": "Groovy 70s",
+        "translation": "Groovy 70s",
+        "propertyValue": "mqoef",
+        "type": "row",
+        "_id": "5aad10d7be1a68155e395fce"
+      }
+    ],
+    "ui": [
+      {
+        "colors": [
+          "#ecd133",
+          "#eea336",
+          "#e97b24",
+          "#b1542b",
+          "#83422c",
+          "#a2c157",
+          "#15325a",
+          "#328c97",
+          "#f2dbb2",
+          "#f0a971",
+          "#ea7240",
+          "#d74129"
+        ],
+        "name": "Groovy 70s UI",
+        "_id": "5aad1481be1a68155e395fd5"
+      }
+    ]
+  },
+  "customStyles": [
+    {
+      "cssRef": "theme.css",
+      "classRef": "sense-theme"
+    }
+  ],
+  "scales": [
+    {
+      "scale": [
+        "#15325a",
+        "#277291",
+        "#328c97",
+        "#8aafa7",
+        "#f2dbb2",
+        "#f0a971",
+        "#ea7240",
+        "#d74129"
+      ],
+      "name": "Divergent 70s Gradient",
+      "translation": "Divergent 70s Gradient",
+      "type": "gradient",
+      "propertyValue": "qjbfjk",
+      "_id": "5aad1157be1a68155e395fcf"
+    },
+    {
+      "scale": [
+        "#15325a",
+        "#277291",
+        "#328c97",
+        "#8aafa7",
+        "#f2dbb2",
+        "#f0a971",
+        "#ea7240",
+        "#d74129"
+      ],
+      "name": "Divergents 70s Scale",
+      "translation": "Divergents 70s Scale",
+      "type": "class",
+      "propertyValue": "kcarlb",
+      "_id": "5aad11a4be1a68155e395fd0"
+    },
+    {
+      "scale": [
+        "#ecd133",
+        "#eea336",
+        "#e97b24",
+        "#b1542b",
+        "#83422c"
+      ],
+      "name": "Sequential 70s Gradient",
+      "translation": "Sequential 70s Gradient",
+      "type": "gradient",
+      "propertyValue": "kmg1fh",
+      "_id": "5aad134dbe1a68155e395fd4"
+    },
+    {
+      "scale": [
+        "#ecd133",
+        "#eea336",
+        "#e97b24",
+        "#b1542b",
+        "#83422c"
+      ],
+      "name": "Sequential 70s Scale",
+      "translation": "Sequential 70s Scale",
+      "type": "class",
+      "propertyValue": "2ejus",
+      "_id": "5aad134dbe1a68155e395fd3"
+    },
+    {
+      "scale": [
+        "#a2c157",
+        "#ead754",
+        "#eacb06",
+        "#f3b604",
+        "#f58e18"
+      ],
+      "name": "Sequential 70s Gradient 2",
+      "translation": "Sequential 70s Gradient 2",
+      "type": "gradient",
+      "propertyValue": "yiiw6q",
+      "_id": "5aad134dbe1a68155e395fd2"
+    },
+    {
+      "scale": [
+        "#a2c157",
+        "#ead754",
+        "#eacb06",
+        "#f3b604",
+        "#f58e18"
+      ],
+      "name": "Sequential 70s Scale 2",
+      "translation": "Sequential 70s Scale 2",
+      "type": "class",
+      "propertyValue": "6wse4c",
+      "_id": "5aad134dbe1a68155e395fd1"
+    }
+  ],
+  "_inherit": true,
+  "_variables": {
+    "@TitleSize": "16px",
+    "@SubtitleSize": "15px",
+    "@TextSize": "12px",
+    "@FooterSize": "10px",
+    "@TitleColor": "#83422c",
+    "@SubtitleColor": "#83422c",
+    "@TextColor": "#83422c",
+    "@FooterColor": "#83422c",
+    "@BackgroundColor": "#efe8d6",
+    "@AxisMajorColor": "#d06b40",
+    "@AxisMinorColor": "#d06b40"
+  },
+  "color": "@TextColor",
+  "fontSize": "@TextSize",
+  "backgroundColor": "@BackgroundColor"
+}
